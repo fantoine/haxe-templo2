@@ -18,8 +18,6 @@ This clone of templo provide some PHP generation fixes :
 - Anonymous objects in expressions
 - "attr" values are now html escaped
 
-It also provides a template comment system.
-
 Template comments
 -----------------
 
